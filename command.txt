@@ -1,0 +1,33 @@
+1. git config --global user.name
+   git config --global user.email
+Displays the username and email 
+
+2. ls-lart
+Dispays all the folders (hidden too)
+
+3. clear
+clears the terminal
+
+4. git log
+Shows all the commits
+
+5. git log -p -<no. of commits>
+Shows a specific no. of commits
+e.g. git log -p -2 shows last 2 commits
+
+6. git checkout filename.extension
+Matches the file to the last commit
+
+7. git diff
+Shows the difference between the working directory and staged area
+
+8.git diff --staged
+Shows the difference between last commit and staged area
+
+9.git rm --cached filename.extension
+Removes file from staging area
+
+10.git rm filename.extension
+Removes the file completely
+
+    
