@@ -1,0 +1,42 @@
+commit f3a1736b8c34ee22e78e873528ddf55fcc2a9768
+Author: aasthaaaaa <aasthasrivastava1903@gmail.com>
+Date:   Tue Jan 4 15:33:36 2022 +0530
+
+    'description of merge conflict resolve
+
+commit 7fb13cad9483ddb921a12bda9a35cafbfcf65742
+Merge: 93d319d b99bd2e
+Author: aasthaaaaa <aasthasrivastava1903@gmail.com>
+Date:   Tue Jan 4 15:27:22 2022 +0530
+
+    resolved conflict
+
+commit 93d319d49910b5f884c7866efdec28877dbab2d0
+Author: aasthaaaaa <aasthasrivastava1903@gmail.com>
+Date:   Tue Jan 4 15:22:52 2022 +0530
+
+    appended content to merge.txt
+
+commit b99bd2e476b72294077d459d8afe4f89d7af8aa4
+Author: aasthaaaaa <aasthasrivastava1903@gmail.com>
+Date:   Tue Jan 4 15:19:16 2022 +0530
+
+    changed merge file in branch
+
+commit 43cb46844ed75f28c20d521b02ae815da7591d6e
+Author: aasthaaaaa <aasthasrivastava1903@gmail.com>
+Date:   Tue Jan 4 15:06:25 2022 +0530
+
+    commit in main before conflict
+
+commit c3ec7b942f4bc903ee8d1b78ff0039cc25c6fd42
+Author: aasthaaaaa <aasthasrivastava1903@gmail.com>
+Date:   Tue Jan 4 15:01:44 2022 +0530
+
+    adding the 10 commands
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit
