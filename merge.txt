@@ -1,2 +1,3 @@
 initial content to create merge conflict
 content to append
+different content to merge later
