@@ -1,0 +1,4 @@
+To resolve the merge conflict , edit the confilcted file.
+Remove all the conflict dividers.
+Add the file to staging area.
+Create a new commit.
